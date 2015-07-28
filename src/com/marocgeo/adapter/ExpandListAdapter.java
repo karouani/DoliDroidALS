@@ -27,6 +27,7 @@ import android.widget.ToggleButton;
 
 public class ExpandListAdapter extends BaseExpandableListAdapter implements Filterable{
 
+	/** hello */
     private Context context;
     private List<Categorie> groups;
     private List<Categorie> filterlist;
