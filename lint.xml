@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/marocgeo/als/CatalogeActivity.java" />
+        <ignore path="src/com/marocgeo/als/CmdDetailActivity.java" />
+        <ignore path="src/com/marocgeo/als/CmdViewActivity.java" />
+        <ignore path="src/com/marocgeo/als/InterventionhistoActivity.java" />
+        <ignore path="src/com/marocgeo/als/NextEtapeActivity.java" />
+        <ignore path="src/com/marocgeo/als/PayementActivity.java" />
+        <ignore path="src/com/marocgeo/als/ShowLocationActivity.java" />
+        <ignore path="src/com/marocgeo/als/ViewcommandeActivity.java" />
+        <ignore path="src/com/marocgeo/als/ViewstockActivity.java" />
+        <ignore path="src/com/marocgeo/als/dao/CategorieDaoMysql.java" />
+        <ignore path="src/com/marocgeo/als/utils/ServiceDao.java" />
+        <ignore path="src/com/marocgeo/offline/Offlineimpl.java" />
+    </issue>
+</lint>
