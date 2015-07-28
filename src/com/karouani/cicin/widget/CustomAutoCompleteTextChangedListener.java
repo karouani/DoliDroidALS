@@ -12,6 +12,11 @@ import android.text.TextWatcher;
 import android.util.Log;
 import android.widget.ArrayAdapter;
 
+/*******************
+ * 
+ * @author yassinekarouani
+ *
+ */
 public class CustomAutoCompleteTextChangedListener{
 
 	public static final String TAG = "CustomAutoCompleteTextChangedListener.java";
